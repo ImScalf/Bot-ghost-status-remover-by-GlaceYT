@@ -31,8 +31,8 @@ app.get('/', (req, res) => {
   res.send('YaY Your Bot Status Changed✨');
 });
 app.listen(port, () => {
-  console.log(`🔗 Listening to TXRP: http://localhost:${port}`);
-  console.log(`🔗 Powered By TXRP`);
+  console.log(`🔗 Listening to Texas State Roleplay: http://localhost:${port}`);
+  console.log(`🔗 Powered By Texas State Roleplay`);
 });
 
 
